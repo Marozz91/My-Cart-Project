@@ -1,6 +1,7 @@
-# My Cart Project
+# shopping Cart Project
 
 ## Description:
+Add products by category, view prices and images, and remove items effortlessly. 
 
 ## Technologies Used:
 - HTML
