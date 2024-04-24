@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;500&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    margin-top: 1rem;
+    text-align: center;
+    color: var(--main-color);
+}
+
+:root {
+    --main-color: rgb(20, 53, 112);
+}
+
+
+form {
+    max-width: 500px;
+    padding: 20px;
+    border-radius: 7px;
+    margin: auto;
+    border: 1px solid var(--main-color);
+}
+
+label {
+    display: block;
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+    color: var(--main-color);
+}
+
+form input {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border-bottom: 1px solid var(--main-color);
+    padding: 5px;
+}
+
+form button {
+    display: block;
+    width: 100%;
+    border-radius: 50px;
+    border: 1px solid var(--main-color);
+    padding: 10px;
+    color: white;
+    cursor: pointer;
+    background: var(--main-color);
+    transition: 0.3s;
+}
+
+
+#selectBox {
+
+    width: 100%;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+form input+span {
+    position: relative;
+    top: -5px;
+    font-size: 0.8rem;
+    color: red;
+}
+
+img {
+
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+}
+
+thead {
+    background: var(--main-color);
+    color: white;
+    text-align: center;
+}
+
+.table {
+    width: 150rem;
+    margin: auto;
+
+}
+
+
+#tableBody {
+
+    text-align: center;
+}
