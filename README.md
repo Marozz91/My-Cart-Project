@@ -1,4 +1,6 @@
-# Product Project
+# My Cart Project
+
+## Description:
 
 ## Technologies Used:
 - HTML
