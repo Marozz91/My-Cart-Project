@@ -1,4 +1,4 @@
-# shopping Cart Project
+# Shopping Cart Project
 
 ## Description:
 Add products by category, view prices and images, and remove items effortlessly. 
