@@ -14,5 +14,5 @@ Add products by category, view prices and images, and remove items effortlessly.
 ## Getting Started
 To begin, use VSCode's Live Server extension to instantly view the project in a browser. Open the index.html file in VSCode and start Live Server.
 
-## link to project
+## Link to project
 - https://marozz91.github.io/Shopping-Cart-Project
